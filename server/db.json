@@ -1,0 +1,63 @@
+{
+  "red":[
+    {
+        "id":1,
+        "name":"ball"
+    },
+    {
+        "id":2,
+        "name":"bat"
+    },
+    {
+        "id":3,
+        "name":"tennis"
+    }
+
+],
+
+"blue":[
+    {
+        "id":4,
+        "name":"cricket"
+    },
+    {
+        "id":5,
+        "name":"sports"
+    },
+    {
+        "id":6,
+        "name":"football"
+    },
+    {
+        "id":7,
+        "name":"NBA"
+    }
+
+],
+
+    "green":[
+        {
+            "id":8,
+            "name":"worldcup"
+        },
+        {
+            "id":9,
+            "name":"IPL"
+        }
+    ],
+    "black":[
+        {
+            "id":10,
+            "name":"FIFA"
+        },
+        {
+            "id":11,
+            "name":"India"
+        },
+        {
+            "id":12,
+            "name":"Hockey"
+        }
+    ]
+
+}
